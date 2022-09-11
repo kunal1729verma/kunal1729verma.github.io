@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! I'm Kunal Verma, a 5th year BS-MS student pursuing a major in Physics at the [Indian Institute of Science Education and Research, Mohali](https://www.iisermohali.ac.in/) (IISER-M). My research interests lie broadly in the area of theoretical and computational condensed matter physics. Currently, I'm using both analytical and numerical methods in lattice gauge theories exhibiting topological quantum phases.
+Hi! I'm Kunal Verma, a 5th year BS-MS student pursuing a major in Physics at the [Indian Institute of Science Education and Research, Mohali](https://www.iisermohali.ac.in/) (IISER-M). My research interests lie broadly in the area of theoretical and computational condensed matter physics. Currently, I'm using both analytical and numerical methods to study lattice gauge theories exhibiting topological quantum phases.
 
 The purpose of this website is to act as an organized repository of the things I've done throughout my undergraduate program while also acting as a platform for those who wish to know more about me.
 
