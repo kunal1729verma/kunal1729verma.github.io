@@ -54,11 +54,9 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods
   * Performed Quantum State Tomography of mixed states to extract the approximate density matrix using IBM-Q Experience.
   
   [**Project Report**](https://drive.google.com/file/d/1Lzf4DAu6r-a-PMP-y8c-z8aMVAyeeuXY/view)
-
 ---
 
 ## Teaching Experience
------
 * **PHY101 - Mechanics** Teaching Assistant (TA), Spring Semester 2022 - IISER Mohali
 
 ## Awards/Scholarships
@@ -71,36 +69,28 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods
 ---
 * **Frustrated Metals and Insulators (Hybrid), 2022** program at ICTS, Bengaluru. Talks in the fields of frustrated magnetism, superconductivity and topological states of matter.
 * **Shivalik HEPCATS meeting, Winter 2021** at IISER Mohali - a conference to foster discussions in the areas of High Energy Physics, Cosmology, Astrophysics, Theory and Simulations.
-* **Shivalik HEPCATS meeting, Winter 2020** at IISER Mohali.
 * **REYES Summer Workshop (Online), 2020** at Old Dominion University, Virginia, USA.
+* **Conference on Quantum Foundations, Technology and Applications, 2019** at IISER Mohali.
 * **NIUS Physics 16.1 and 16.2 Camp, 2019** at Homi Bhabha Centre for Science Education, TIFR, Mumbai - an exposure cum enrichment camp followed by subsequent camps for project work.
 * **National Science (Vijyoshi) Camp 2018** at IISER Bhopal.
 
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+## Technical Skills
+---
+* **Computational Methods**
+  * Monte Carlo simulations, Quantum Monte Carlo methods, Molecular Dynamics simulations, Runge Kutta methods, numerical integration techniques.
+* **Scientific Programming languages**
+  *  Fluent in Python (scipy, numpy, matplotlib)
+  *  Intermediate knowledge of C++
+  *  Basic knowledge of Fortran90, Mathematica.
+* General computing tools
+  * $\LaTeX$, gnuplot, Git, GitHub.
+
+
+## Relevant Coursework
+---
+* **Mandatory Theory courses** - Classical Mechanics, Quantum Mechanics, Electromagnetism, Mathematical Methods for Physics - I, Statistical Mechanics, Advanced Quantum Mechanics, Nuclear and Particle Physics, Solid State Physics, Atomic and Molecular Physics.
+* **Mandatory Lab courses** - Advanced optics and spectroscopy lab, Advanced Electronics lab, Nuclear Physics lab, Condensed Matter Physics lab.
+* **Elective courses** - Modelling Complex Systems, Relativistic Quantum Mechanics and Quantum Field Theory (QFT-I), Gravitation and Cosmology, Non-linear Dynamics and Chaos, Machine Learning, Biostatistics.
+* **Online NPTEL courses** - Computational Physics with Fortran, Introduction to Quantum Computing: Quantum Algorithms and Qiskit.
