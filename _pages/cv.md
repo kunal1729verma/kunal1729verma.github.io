@@ -31,6 +31,7 @@ redirect_from:
     * _Lefschetz Thimble method_: new manifolds, equivalent to the original domain of integration, are found in the complexified space, along which the imaginary part of the action is constant and, therefore, the integral is (mostly) real.
   * Since both methods rely on complexifying the fields, we also investigated the similarities and differences between the two.
   * Worked with _Python_, _Mathematica_.
+  
   [Project Report](https://web.iisermohali.ac.in/Faculty/anoshjoseph/internships/2021/report_2021_Kunal_Verma.pdf)
   
 Skills
