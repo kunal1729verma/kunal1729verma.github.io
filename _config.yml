@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kunal Verma"
 title_separator          : "-"
 name                     : &name "Kunal Verma"
-description              : &description "5th year Physics Masters Student"
+description              : &description "5th year BS-MS Physics Major"
 url                      : https://kunal1729verma.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kunal1729verma.github.io"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : "177275/tachyon209"
   steam            :
   tumblr           :
-  twitter          : "_kunal_verma_"
+  twitter          :
   vine             :
   weibo            :
   xing             :
