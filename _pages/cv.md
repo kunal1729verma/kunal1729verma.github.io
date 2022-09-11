@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 <hr style="text-align:left;margin-left:0;border-top:2px solid #6b7278"> 
 
-## Read and print on screen
+## Education
 -----
 * **Indian Institute of Science Education and Research, Mohali** <br> BS-MS Dual Degree, Physics Major (2018 - 2023)
   * Cumulative GPA: 9.52/10 (till Semester 8)  
@@ -18,7 +18,7 @@ redirect_from:
   * AISSCE, Class 12: 95.4% score
   * AISCE,  Class 10: 10.0/10 CGPA
 
-## Read and print on screen
+## Research Experience
 -----
 * **Masters thesis project with [Prof. Vijay B. Shenoy](http://www.physics.iisc.ac.in/~shenoy/), IISc Bengaluru** (January 2022 - Present) <br> _Project Assistant, IISc_
   * Currently working on studies to explore the phases of $\mathbb{Z}_2$ lattice gauge theory using quantum Monte Carlo methods.
