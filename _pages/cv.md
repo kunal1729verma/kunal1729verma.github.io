@@ -79,7 +79,7 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods
 ## Technical Skills
 ---
 * **Computational Methods**
-  * Monte Carlo simulations, Quantum Monte Carlo methods, Molecular Dynamics simulations, Runge Kutta methods, numerical integration techniques.
+  * Monte Carlo simulations, Path Integral (quantum) Monte Carlo , Molecular Dynamics simulations, Runge Kutta methods, numerical integration techniques.
 * **Scientific Programming languages**
   *  Fluent in Python (scipy, numpy, matplotlib)
   *  Intermediate knowledge of C++
