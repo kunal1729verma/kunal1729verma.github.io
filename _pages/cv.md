@@ -25,6 +25,7 @@ redirect_from:
   * Preliminary work involved studying the classical Ising model in 2D and extracting critical exponents to get acquainted with numerical methods.
   * Working with _C++_, _Python_. 
 
+---
 
 * **Research internship with [Dr. Anosh Joseph](https://web.iisermohali.ac.in/Faculty/anoshjoseph/), IISER Mohali** (April 2021 - August 2021) <br> _Research Intern_ 
   * The research project involved the study of numerical methods to get around the "sign problem" plaguing Lattice QCD and condensed matter systems. The project involved attacking the sign problem via the following methods
@@ -35,6 +36,8 @@ redirect_from:
   
   [**Project Report**](https://web.iisermohali.ac.in/Faculty/anoshjoseph/internships/2021/report_2021_Kunal_Verma.pdf): Numerical Methods for Evading the Sign Problem:
 A Primer on Complex Langevin and Lefschetz Thimble Methods
+
+---
 
 * **Winter Project associated with NIUS 16.1 Physics Camp, with Prof. Rudrajyoti Palit, TIFR Mumbai** (December 2019)
   * Introduction to methods of radiation emission and detection, interaction of radiation with matter and detector working principles. Detection of gamma rays using scintillation detectors and photomultiplier tubes.
