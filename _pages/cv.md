@@ -12,8 +12,9 @@ redirect_from:
 
 Education
 ---
-* BS-MS, Physics Major, IISER Mohali &nbsp; &nbsp; *2018 - 2023s (Expected)*  
-* M.S. in Jekyll, GitHub University, 2014
+* **Indian Institute of Science Education and Research, Mohali** <br> BS-MS Dual Degree, Physics Major, *2018 - 2023s (Expected)*
+  * Cumulative GPA: 9.52/10 (till Semester 8)  
+* All India Senior
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
