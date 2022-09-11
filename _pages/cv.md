@@ -12,16 +12,16 @@ redirect_from:
 
 Education
 -----
-* **Indian Institute of Science Education and Research, Mohali** <br> BS-MS Dual Degree, Physics Major &nbsp;&nbsp;&nbsp;&nbsp; *2018 - 2023 (Expected)*
+* **Indian Institute of Science Education and Research, Mohali** <br> BS-MS Dual Degree, Physics Major &nbsp;&nbsp (2018 - 2023 (expected))
   * Cumulative GPA: 9.52/10 (till Semester 8)  
-* **Apeejay School, Sheikh Sarai, New Delhi** <br> Secondary and Senior Secondary School (CBSE) &nbsp;&nbsp;&nbsp;&nbsp; *2015 - 2018*
+* **Apeejay School, Sheikh Sarai, New Delhi** <br> CBSE Board, Secondary and Senior Secondary School &nbsp;&nbsp (2015 - 2018)
   * AISSCE, Class 12: 95.4% score
   * AISCE,  Class 10: 10.0/10 CGPA
 
 Research Experience
 -----
-* **Masters Research project with [Prof. Vijay B. Shenoy](http://www.physics.iisc.ac.in/~shenoy/), IISc Bengaluru** &nbsp;&nbsp;&nbsp;&nbsp; _January 2022 - Present_ <br> _Project Assistant_
-  * 
+* **Masters Research project with [Prof. Vijay B. Shenoy](http://www.physics.iisc.ac.in/~shenoy/), IISc Bengaluru** &nbsp;&nbsp (January 2022 - Present) <br> _Project Assistant_
+  * Z2
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
