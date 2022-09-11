@@ -14,9 +14,9 @@ Education
 ---
 * **Indian Institute of Science Education and Research, Mohali** <br> BS-MS Dual Degree, Physics Major, *2018 - 2023 (Expected)*
   * Cumulative GPA: 9.52/10 (till Semester 8)  
-* **Apeejay School, Sheikh Saraim New Delhi** <br> Secondary and Senior Secondary School
-  * All India Senior Secondary School Examination (CBSE), Class 12: 95.4% marks
-  * All India Secondary School Examination (CBSE), Class 10: 10.0 CGPA
+* **Apeejay School, Sheikh Sarai New Delhi** <br> Secondary and Senior Secondary School (CBSE)
+  * AISSCE, Class 12: 95.4% score
+  * AISCE,  Class 10: 10.0/10 CGPA
 
 Work experience
 ======
