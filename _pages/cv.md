@@ -55,9 +55,9 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods
   
   [**Project Report**](https://drive.google.com/file/d/1Lzf4DAu6r-a-PMP-y8c-z8aMVAyeeuXY/view)
 
----
 
 ## Teaching Experience
+---
 * **PHY101 - Mechanics**, Help Session Tutor, Spring Semester 2022 - IISER Mohali
 
 ## Awards/Scholarships
