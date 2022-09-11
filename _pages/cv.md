@@ -33,7 +33,8 @@ redirect_from:
   * Since both methods rely on complexifying the fields, we also investigated the similarities and differences between the two.
   * Worked with _Python_, _Mathematica_.
   
-  Project: Numerical Methods for Evading the Sign Problem: A Primer on Complex Langevin and Lefschetz Thimble Methods [Project Report](https://web.iisermohali.ac.in/Faculty/anoshjoseph/internships/2021/report_2021_Kunal_Verma.pdf)  
+  [Project Report](https://web.iisermohali.ac.in/Faculty/anoshjoseph/internships/2021/report_2021_Kunal_Verma.pdf): Numerical Methods for Evading the Sign Problem:
+A Primer on Complex Langevin and Lefschetz Thimble Methods
   
 Skills
 ======
