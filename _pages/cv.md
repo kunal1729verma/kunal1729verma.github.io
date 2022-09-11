@@ -26,13 +26,13 @@ redirect_from:
   * Working with _C++_, _Python_. 
 
 
-* **Research internship with [Dr. Anosh Joseph](https://web.iisermohali.ac.in/Faculty/anoshjoseph/), IISER Mohali** (April 2021 - August 2021) <br> _Research Intern_ <br> Numerical Methods for Evading the Sign Problem: A Primer on Complex Langevin and Lefschetz Thimble Methods [Project Report](https://web.iisermohali.ac.in/Faculty/anoshjoseph/internships/2021/report_2021_Kunal_Verma.pdf)
+* **Research internship with [Dr. Anosh Joseph](https://web.iisermohali.ac.in/Faculty/anoshjoseph/), IISER Mohali** (April 2021 - August 2021) <br> _Research Intern_ 
   * The research project involved the study of numerical methods to get around the "sign problem" plaguing Lattice QCD and condensed matter systems. The project involved attacking the sign problem via the following methods
     * _Complex Lagevin method_: Based on stochastic quantization of the fields. The field configuration is evolved according to a SDE and its equilibrium configuration is chosen as the sampling configuration. 
     * _Lefschetz Thimble method_: new manifolds, equivalent to the original domain of integration, are found in the complexified space, along which the imaginary part of the action is constant and, therefore, the integral is (mostly) real.
   * Since both methods rely on complexifying the fields, we also investigated the similarities and differences between the two.
   * Worked with _Python_, _Mathematica_.
-  
+  Project: Numerical Methods for Evading the Sign Problem: A Primer on Complex Langevin and Lefschetz Thimble Methods [Project Report](https://web.iisermohali.ac.in/Faculty/anoshjoseph/internships/2021/report_2021_Kunal_Verma.pdf)  
   
 Skills
 ======
