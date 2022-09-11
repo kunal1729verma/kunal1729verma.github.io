@@ -11,7 +11,7 @@ redirect_from:
 <hr style="text-align:left;margin-left:0;border-top:2px solid #6b7278"> 
 
 Education
----
+-----
 * **Indian Institute of Science Education and Research, Mohali** <br> BS-MS Dual Degree, Physics Major, *2018 - 2023 (Expected)*
   * Cumulative GPA: 9.52/10 (till Semester 8)  
 * **Apeejay School, Sheikh Sarai New Delhi** <br> Secondary and Senior Secondary School (CBSE), *2015 - 2018*
