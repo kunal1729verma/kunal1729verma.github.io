@@ -12,10 +12,11 @@ redirect_from:
 
 Education
 ---
-* **Indian Institute of Science Education and Research, Mohali** <br> BS-MS Dual Degree, Physics Major, *2018 - 2023s (Expected)*
+* **Indian Institute of Science Education and Research, Mohali** <br> BS-MS Dual Degree, Physics Major, *2018 - 2023 (Expected)*
   * Cumulative GPA: 9.52/10 (till Semester 8)  
-* All India Senior
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Apeejay School, Sheikh Saraim New Delhi** <br> Secondary and Senior Secondary School
+  * All India Senior Secondary School Examination (CBSE), Class 12: 95.4% marks
+  * All India Secondary School Examination (CBSE), Class 10: 10.0 CGPA
 
 Work experience
 ======
