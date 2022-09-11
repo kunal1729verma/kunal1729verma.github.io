@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ---
-* BS-MS, Physics Major, IISER Mohali &nbsp; *2018 - 2023 (Expected)*  
+* BS-MS, Physics Major, IISER Mohali &nbsp; &nbsp; *2018 - 2023s (Expected)*  
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
