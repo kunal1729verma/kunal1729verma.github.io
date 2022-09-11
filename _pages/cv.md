@@ -35,7 +35,14 @@ redirect_from:
   
   [**Project Report**](https://web.iisermohali.ac.in/Faculty/anoshjoseph/internships/2021/report_2021_Kunal_Verma.pdf): Numerical Methods for Evading the Sign Problem:
 A Primer on Complex Langevin and Lefschetz Thimble Methods
-  
+
+* **Winter Project associated with NIUS 16.1 Physics Camp, with Prof. Rudrajyoti Palit, TIFR Mumbai** (December 2019)
+  * Introduction to methods of radiation emission and detection, interaction of radiation with matter and detector working principles. Detection of gamma rays using scintillation detectors and photomultiplier tubes.
+  * Wrote a code for detection of peaks in a $\gamma$-ray spectrum generated.
+  * Discontinued due to COVID-19 pandemic. 
+
+  [**Project Report**](https://drive.google.com/file/d/1j0O9DRsrgycUYYqn798IUs77v2SMf47_/view)
+
 Skills
 ======
 * Skill 1
