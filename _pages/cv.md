@@ -57,7 +57,7 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods
 ---
 
 ## Teaching Experience
-* **PHY101 - Mechanics** Teaching Assistant (TA), Spring Semester 2022 - IISER Mohali
+* **PHY101 - Mechanics**, Help Session Tutor, Spring Semester 2022 - IISER Mohali
 
 ## Awards/Scholarships
 -----
