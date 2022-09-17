@@ -11,7 +11,7 @@ In this page, I aim to compile any resources I come across that I feel might be 
 ## IISER Mohali coursework related
 -----
 * A [compilation of my notes](https://github.com/kunal1729verma/lecture_notes_physics_iiserm) for various courses that I credited at IISER Mohali.
-* A few PHY101 Help Session tutoring scribbles [[27-02-2022]](https://kunal1729verma.github.io/files/hs_scribbles/27-02-2022_HS_notes) [[06-03-2022]](https://kunal1729verma.github.io/files/hs_scribbles/06-03-2022_HS_notes) [[03-04-2022]](https://kunal1729verma.github.io/files/hs_scribbles/03-04-2022_HS_notes) 
+* A few PHY101 Help Session tutoring scribbles -  [[27-02-2022]](https://kunal1729verma.github.io/files/hs_scribbles/27-02-2022_HS_notes), [[06-03-2022]](https://kunal1729verma.github.io/files/hs_scribbles/06-03-2022_HS_notes), [[03-04-2022]](https://kunal1729verma.github.io/files/hs_scribbles/03-04-2022_HS_notes) 
 
 ## Condensed Matter related
 -----
