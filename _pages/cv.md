@@ -95,3 +95,6 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods
 * **Mandatory Lab courses** - Advanced optics and spectroscopy lab, Advanced Electronics lab, Nuclear Physics lab, Condensed Matter Physics lab.
 * **Elective courses** - Modelling Complex Systems, Relativistic Quantum Mechanics and Quantum Field Theory (QFT-I), Gravitation and Cosmology, Non-linear Dynamics and Chaos, Machine Learning, Biostatistics.
 * **Online NPTEL courses** - Computational Physics with Fortran, Introduction to Quantum Computing: Quantum Algorithms and Qiskit.
+
+
+You can find a `.pdf` version of the CV   [here](https://kunal1729verma.github.io/files/resume.pdf).
