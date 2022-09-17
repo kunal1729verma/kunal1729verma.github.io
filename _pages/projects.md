@@ -26,7 +26,9 @@ In this project, we modelled a piezoelectric transducer as a transmitter and a r
 
 
 ## Measuring the correlation dimension of strange attractors (IDC402 - Nonlinear Dynamics and Chaos)
+-----
 In this term paper, we estimated the fractal dimension of two strange attractors, namely the Lorenz system (3D continuous) and the Henon map (2D map). The correlation function $C(\varepsilon)$ is defined as the probability of finding any two points in the attractor distance within some ball of radius $\varepsilon$, and is expected to be related as a power law $C(\varepsilon) \sim \varepsilon^{d_c}$. The repository for the term paper can be found [here](https://github.com/kunal1729verma/idc402-nonlinear_dynamics_and_chaos).
 
 ## News Recommender System (IDC410 - Machine Learning) 
+-----
 In this project, we (I and my friends [Bhavik](https://github.com/bhavikorange), [Akshay](https://github.com/20akshay00), [Aniket](https://github.com/aniket-sharma-768)) attempted to design a news recommender system by scraping off news articles from some well-known news websites, and used methods of Natural Language Processing - vectorizing the news corpus and extracting relevant topics using LSA and NER. In order to provide users with recommendations, we gathered analytics by creating user profiles, and calculating an "engagement score" for each read article to recommend the next set of articles. We use a combination of content-based and collaborative-based recommendations to generate the news feed for each user. All the relevant code, including the final API and the report can be found in [this repository](https://github.com/20akshay00/News-Recommender-System).
