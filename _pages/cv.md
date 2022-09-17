@@ -39,7 +39,7 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods
 
 ---
 
-* **Winter Project associated with NIUS 16.1 Physics Camp, with Prof. Rudrajyoti Palit, TIFR Mumbai** (December 2019)
+* **Winter Project associated with NIUS 16.2 Physics Camp, with Prof. Rudrajyoti Palit, TIFR Mumbai** (December 2019)
   * Introduction to methods of radiation emission and detection, interaction of radiation with matter and detector working principles. Detection of gamma rays using scintillation detectors and photomultiplier tubes.
   * Wrote a code for detection of peaks in a $\gamma$-ray spectrum generated.
   * Discontinued due to COVID-19 pandemic. 
@@ -85,7 +85,7 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods
   *  Fluent in Python (scipy, numpy, matplotlib)
   *  Intermediate knowledge of C++
   *  Basic knowledge of Fortran90, Mathematica.
-* General computing tools
+* **General computing tools**
   * $\LaTeX$, gnuplot, Git, GitHub.
 
 
