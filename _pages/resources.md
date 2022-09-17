@@ -6,7 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-In this page, I aim to compile any resources I come across that I feel might be useful for me as well as for others. I will (hopefully) keep updating this list regularly.
+{% include base_path %}
+<hr style="text-align:left;margin-left:0;border-top:2px solid #6b7278"> 
+
+On this page, I aim to compile any resources I come across that I feel might be useful for me and others. I will (hopefully) keep updating this list regularly.
 
 ## IISER Mohali coursework related
 -----
