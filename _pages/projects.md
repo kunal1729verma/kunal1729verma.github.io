@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-<hr style="text-align:left;margin-left:0;border-top:2px solid #6b7278"> 
 This page includes some of the projects/term paper explorations that I've worked on, including coursework projects and other side projects.
 
 ## Complex system models (IDC621 - Modelling Complex Systems) 
