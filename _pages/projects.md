@@ -30,5 +30,3 @@ In this term paper, we estimated the fractal dimension of two strange attractors
 
 ## News Recommender System (IDC410 - Machine Learning) 
 In this project, we (I and my friends [Bhavik](https://github.com/bhavikorange), [Akshay](https://github.com/20akshay00), [Aniket](https://github.com/aniket-sharma-768)) attempted to design a news recommender system by scraping off news articles from some well-known news websites, and used methods of Natural Language Processing - vectorizing the news corpus and extracting relevant topics using LSA and NER. In order to provide users with recommendations, we gathered analytics by creating user profiles, and calculating an "engagement score" for each read article to recommend the next set of articles. We use a combination of content-based and collaborative-based recommendations to generate the news feed for each user. All the relevant code, including the final API and the report can be found in [this repository](https://github.com/20akshay00/News-Recommender-System).
-
-[here](https://github.com/20akshay00/News-Recommender-System)
