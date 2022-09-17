@@ -20,12 +20,12 @@ The repository for the term papers can be found [here](https://github.com/kunal1
 
 ## Modelling Piezoelectric Devices as Both Transmitters and Receivers (PHY312 - Advanced Electronics Lab project)
 -----
-In this project, we modelled a piezoelectric transducer as a transmitter and a receiver of acoustic pressure signals. By applying an input voltage to the piezoelectric transducer, we can induce stress in the material. This induced stress transmits acoustic pressure waves which travel upwards till they reflect from the rigid top walls and arrive back at the top surface of the transducer. The pressure waves cause the material to deform under stress again, which induces a voltage signal at the top surface of the transducer, and thus it acts as a receiver. The project was carried out in COMSOL Multiphysics. The repository for the project can be found [here](https://github.com/kunal1729verma/phy312-electronics_lab_project).
+In this project, we ([Bhavik](https://github.com/bhavikorange) and I) modelled a piezoelectric transducer as a transmitter and a receiver of acoustic pressure signals. By applying an input voltage to the piezoelectric transducer, we can induce stress in the material. This induced stress transmits acoustic pressure waves which travel upwards till they reflect from the rigid top walls and arrive back at the top surface of the transducer. The pressure waves cause the material to deform under stress again, which induces a voltage signal at the top surface of the transducer, and thus it acts as a receiver. The project was carried out in COMSOL Multiphysics. The repository for the project can be found [here](https://github.com/kunal1729verma/phy312-electronics_lab_project).
 
 
 ## Measuring the correlation dimension of strange attractors (IDC402 - Nonlinear Dynamics and Chaos)
 -----
-In this term paper, we estimated the fractal dimension of two strange attractors, namely the Lorenz system (3D continuous) and the Henon map (2D map). The correlation function $C(\varepsilon)$ is defined as the probability of finding any two points in the attractor distance within some ball of radius $\varepsilon$, and is expected to be related as a power law $C(\varepsilon) \sim \varepsilon^{d_c}$. The repository for the term paper can be found [here](https://github.com/kunal1729verma/idc402-nonlinear_dynamics_and_chaos).
+In this term paper, I estimated the fractal dimension of two strange attractors, namely the Lorenz system (3D continuous) and the Henon map (2D map). The correlation function $C(\varepsilon)$ is defined as the probability of finding any two points in the attractor distance within some ball of radius $\varepsilon$, and is expected to be related as a power law $C(\varepsilon) \sim \varepsilon^{d_c}$. The repository for the term paper can be found [here](https://github.com/kunal1729verma/idc402-nonlinear_dynamics_and_chaos).
 
 ## News Recommender System (IDC410 - Machine Learning) 
 -----
