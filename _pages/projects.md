@@ -18,11 +18,6 @@ We worked on a variety of complex system models throughout the course, and explo
 
 The repository for the term papers can be found [here](https://github.com/kunal1729verma/idc621-modelling_complex_systems).
 
-## Modelling Piezoelectric Devices as Both Transmitters and Receivers (PHY312 - Advanced Electronics Lab project)
------
-In this project, we ([Bhavik](https://github.com/bhavikorange) and I) modelled a piezoelectric transducer as a transmitter and a receiver of acoustic pressure signals. By applying an input voltage to the piezoelectric transducer, we can induce stress in the material. This induced stress transmits acoustic pressure waves which travel upwards till they reflect from the rigid top walls and arrive back at the top surface of the transducer. The pressure waves cause the material to deform under stress again, which induces a voltage signal at the top surface of the transducer, and thus it acts as a receiver. The project was carried out in COMSOL Multiphysics. The repository for the project can be found [here](https://github.com/kunal1729verma/phy312-electronics_lab_project).
-
-
 ## Measuring the correlation dimension of strange attractors (IDC402 - Nonlinear Dynamics and Chaos)
 -----
 In this term paper, I estimated the fractal dimension of two strange attractors, namely the Lorenz system (3D continuous) and the Henon map (2D map). The correlation function $C(\varepsilon)$ is defined as the probability of finding any two points in the attractor distance within some ball of radius $\varepsilon$, and is expected to be related as a power law $C(\varepsilon) \sim \varepsilon^{d_c}$. The repository for the term paper can be found [here](https://github.com/kunal1729verma/idc402-nonlinear_dynamics_and_chaos).
@@ -30,3 +25,7 @@ In this term paper, I estimated the fractal dimension of two strange attractors,
 ## News Recommender System (IDC410 - Machine Learning) 
 -----
 In this project, we (my friends [Bhavik](https://github.com/bhavikorange), [Akshay](https://github.com/20akshay00), [Aniket](https://github.com/aniket-sharma-768) and I) attempted to design a news recommender system by scraping off news articles from some popular news websites, and used methods of Natural Language Processing - vectorizing the news corpus and extracting relevant topics using LSA and NER and so on. In order to provide users with recommendations, we gathered analytics by creating user profiles, and calculating an "engagement score" for each read article to recommend the next set of articles. We use a combination of content-based and collaborative-based recommendations to generate the news feed for each user. All the relevant code, including the final API and the report can be found in [this repository](https://github.com/20akshay00/News-Recommender-System).
+
+## Modelling Piezoelectric Devices as Both Transmitters and Receivers (PHY312 - Advanced Electronics Lab project)
+-----
+In this project, we ([Bhavik](https://github.com/bhavikorange) and I) modelled a piezoelectric transducer as a transmitter and a receiver of acoustic pressure signals. By applying an input voltage to the piezoelectric transducer, we can induce stress in the material. This induced stress transmits acoustic pressure waves which travel upwards till they reflect from the rigid top walls and arrive back at the top surface of the transducer. The pressure waves cause the material to deform under stress again, which induces a voltage signal at the top surface of the transducer, and thus it acts as a receiver. The project was carried out in COMSOL Multiphysics. The repository for the project can be found [here](https://github.com/kunal1729verma/phy312-electronics_lab_project).
