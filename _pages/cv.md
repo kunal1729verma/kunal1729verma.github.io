@@ -97,4 +97,4 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods
 * **Online NPTEL courses** - Computational Physics with Fortran, Introduction to Quantum Computing: Quantum Algorithms and Qiskit.
 
 ---
-You can find a `.pdf` version of the CV   [here](https://kunal1729verma.github.io/files/resume.pdf).
+You can find a `.pdf` version of the CV   [here](https://kunal1729verma.github.io/files/resume_kunal.pdf).
