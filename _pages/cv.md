@@ -33,8 +33,8 @@ redirect_from:
     * _Lefschetz Thimbles_: new manifolds, equivalent to the original domain of integration, are found in the complexified space, along which the imaginary part of the action is constant and, therefore, the integral is (mostly) real.
   * Worked with _Python_, _Mathematica_.
   
-  [**Project Report**](https://kunal1729verma.github.io/files/report_kunal_verma_2021.pdf): **Numerical Methods for Evading the Sign Problem:
-A Primer on Complex Langevin and Lefschetz Thimble Methods**
+  [**Project Report**](https://kunal1729verma.github.io/files/report_kunal_verma_2021.pdf): _Numerical Methods for Evading the Sign Problem:
+A Primer on Complex Langevin and Lefschetz Thimble Methods_
 
 ---
 
