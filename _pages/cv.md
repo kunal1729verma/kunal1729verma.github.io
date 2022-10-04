@@ -75,6 +75,7 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods_
 1. **Path Integrals in Quantum Mechanics** - seminar presentation in IDC452: Seminar Delivery (Spring Semester 2022).
 2. **Sign Problem and Lefschetz Thimbles** - seminar presentation in IDC451: Seminar Delivery (Monsoon Semester 2021).
 3. **Lamb Shift and the origin of QED** - term paper presentation for PHY306: Advanced Quantum Mechanics (Spring Semester 2021).
+
 The slides and the recordings for some of the talks can be viewed on the [Talks](https://kunal1729verma.github.io//talks/) page.
 
 ## Awards/Scholarships
@@ -86,7 +87,7 @@ The slides and the recordings for some of the talks can be viewed on the [Talks]
 
 ## Workshops/Conferences
 ---
-* **From Quantum Matter to Quantum Computers (Hybrid)** a school for Master students in quantum many-body physics, quantum matter and quantum computers.
+* **From Quantum Matter to Quantum Computers (Hybrid), 2022** at MPI-PKS Dresden, a school for Master students in quantum many-body physics, quantum matter and quantum computers.
 * **Frustrated Metals and Insulators (Hybrid), 2022** program at ICTS, Bengaluru. Talks in the fields of frustrated magnetism, superconductivity and topological states of matter.
 * **Shivalik HEPCATS meeting, Winter 2021** at IISER Mohali - a conference to foster discussions in the areas of High Energy Physics, Cosmology, Astrophysics, Theory and Simulations.
 * **REYES Summer Workshop (Online), 2020** at Old Dominion University, Virginia, USA.
