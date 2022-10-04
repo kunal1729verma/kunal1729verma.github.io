@@ -48,8 +48,8 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods**
 ---
 
 * **Research internship with Dr. Kavita Dorai, IISER Mohali** (April 2019 - July 2019)
-  * Introduction to basics of Quantum Computing and ways of physically realizing Quantum Computers. 
-  * Designed algorithms for experimentally evaluating expectation values of operators.
+  * Introduction to basics of Quantum Computing and physically realizing it using NMR. 
+  * Designed an algorithm for experimentally evaluating expectation values of operators.
   * Performed Quantum State Tomography of mixed states to extract the approximate density matrix using IBM-Q Experience.
   
   [**Project Report**](https://kunal1729verma.github.io/files/summer_report_2019.pdf)
