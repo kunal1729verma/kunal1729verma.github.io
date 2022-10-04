@@ -17,7 +17,8 @@ On this page, I aim to compile any resources I come across that I feel might be 
 ## Condensed Matter related
 -----
 * [Journal Club for Condensed Matter Physics](https://www.condmatjclub.org/) - a monthly selection of interesting papers by distinguished correspondents.
-* [Computational Studies of Quantum Spin Systems](https://arxiv.org/abs/1101.3281) by Anders Sandvik - an excellent set of notes starting with Monte Carlo on classical spin systems, their finite size scaling analysis, all the way to exact diagonalization and quantum Monte Carlo in quantum spin systems.
+* [Computational Studies of Quantum Spin Systems](https://arxiv.org/abs/1101.3281) by Anders Sandvik - a comprehensive article starting with Monte Carlo on classical spin systems, their finite size scaling analysis, all the way to exact diagonalization and quantum Monte Carlo in quantum spin systems.
+* [An introduction to spontaneous symmetry breaking](https://scipost.org/10.21468/SciPostPhysLectNotes.11) by Aron, Louk and Jasper - an excellent set of notes on symmetries, spontaneous symmetry breaking and phase transitions.
 * [Why Gauge?](https://arxiv.org/abs/1308.5599) by Carlo Rovelli.
 
 ## General links
