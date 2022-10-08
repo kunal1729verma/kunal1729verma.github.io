@@ -28,7 +28,7 @@ redirect_from:
 ---
 
 * **Research internship with [Dr. Anosh Joseph](https://web.iisermohali.ac.in/Faculty/anoshjoseph/), IISER Mohali** (April 2021 - August 2021) <br> _Research Intern_ 
-  * Complex Langevin and the Lefschetz Thimble methods as primary candidates to deal with the "sign problem" in Lattice QCD, which makes application of standard Monte Carlo methods problematic.
+  * Complex Langevin and the Lefschetz Thimble methods as primary candidates to deal with the "sign problem" (which makes application of standard Monte Carlo methods problematic) in Lattice QCD.
     * _Complex Lagevin_: Based on stochastic quantization of the fields. The field configuration is evolved according to a SDE and its equilibrium configuration is chosen as the sampling configuration. 
     * _Lefschetz Thimbles_: new manifolds, equivalent to the original domain of integration, are found in the complexified space, along which the imaginary part of the action is constant and, therefore, the integral is (mostly) real.
   * Worked with _Python_, _Mathematica_.
@@ -39,7 +39,7 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods_
 ---
 
 * **Winter Project associated with NIUS 16.2 Physics Camp, with Prof. Rudrajyoti Palit, TIFR Mumbai** (December 2019)
-  * Introduction to methods of radiation emission and detection, interaction of radiation with matter and detector working principles. Detection of gamma rays using scintillation detectors and photomultiplier tubes.
+  * Introduction to methods of radiation emission and detection, interaction of radiation with matter and detector working principles. Detection of gamma rays using scintillation detectors and PMTs.
   * Wrote a code for detection of peaks in a $\gamma$-ray spectrum generated.
   * Discontinued due to COVID-19 pandemic. 
 
