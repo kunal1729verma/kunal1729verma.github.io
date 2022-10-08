@@ -59,6 +59,14 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods_
 ---
 * **PHY101 - Mechanics**, Help Session Tutor, Spring Semester 2022 - IISER Mohali
 
+
+## Awards/Scholarships
+-----
+* **INSPIRE S.H.E. Scholar** (2018 - 2023) for higher education in natural sciences by Department of Science and Technology, Govt. of India.
+* **Certificate of Academic Excellence** in semesters 4, 6, and 7 for a 10.0 SPI at IISER Mohali.
+* **S.W.A.N. Imaging Challenge 2019**: Winner (Team), organized by RRI Bangalore. 
+
+
 ## Technical Skills
 ---
 * **Computational Methods**
@@ -70,6 +78,7 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods_
 * **General computing tools**
   * $\LaTeX$, gnuplot, Git, GitHub.
 
+
 ## Presentations
 ---
 1. **Path Integrals in Quantum Mechanics** - seminar presentation in IDC452: Seminar Delivery (Spring Semester 2022).
@@ -77,12 +86,6 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods_
 3. **Lamb Shift and the origin of QED** - term paper presentation for PHY306: Advanced Quantum Mechanics (Spring Semester 2021).
 
 The slides and the recordings for some of the talks can be viewed on the [Talks](https://kunal1729verma.github.io//talks/) page.
-
-## Awards/Scholarships
------
-* **INSPIRE S.H.E. Scholar** (2018 - 2023) for higher education in natural sciences by Department of Science and Technology, Govt. of India.
-* **Certificate of Academic Excellence** in semesters 4, 6, and 7 for a 10.0 SPI at IISER Mohali.
-* **S.W.A.N. Imaging Challenge 2019**: Winner (Team), organized by RRI Bangalore. 
 
 
 ## Workshops/Conferences
@@ -96,7 +99,6 @@ The slides and the recordings for some of the talks can be viewed on the [Talks]
 * **National Science (Vijyoshi) Camp 2018** at IISER Bhopal.
 
 
-
 ## Relevant Coursework
 ---
 * **Mandatory Theory courses** - Classical Mechanics, Quantum Mechanics, Electromagnetism, Mathematical Methods for Physics-I, Statistical Mechanics, Advanced Quantum Mechanics, Nuclear and Particle Physics, Solid State Physics, Atomic and Molecular Physics.
@@ -105,4 +107,4 @@ The slides and the recordings for some of the talks can be viewed on the [Talks]
 * **Online NPTEL courses** - Computational Physics with Fortran (_Ongoing_), Introduction to Quantum Computing: Quantum Algorithms and Qiskit.
 
 ---
-You can find a `.pdf` version of the CV   [here](https://kunal1729verma.github.io/files/resume_kunal.pdf).
+You can find a `.pdf` version of the brief CV [here](https://kunal1729verma.github.io/files/resume_kunal.pdf).
