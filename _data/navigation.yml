@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Research"
-    url: /research/    
+#   - title: "Research"
+#     url: /research/    
 
   - title: "Talks"
     url: /talks/    
@@ -13,7 +13,7 @@ main:
     url: /projects/        
    
   - title: "Useful Links"
-    url: /useful_links/
+    url: /resources/
     
 #   - title: "Teaching"
 #     url: /teaching/    
