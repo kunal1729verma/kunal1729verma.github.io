@@ -93,7 +93,6 @@ The slides and the recordings for some of the talks can be viewed on the [Talks]
 * **From Quantum Matter to Quantum Computers (Hybrid), 2022** at MPI-PKS Dresden, a school for Master students in quantum many-body physics, quantum matter and quantum computers.
 * **Frustrated Metals and Insulators (Hybrid), 2022** program at ICTS, Bengaluru. Talks in the fields of frustrated magnetism, superconductivity and topological states of matter.
 * **Shivalik HEPCATS meeting, Winter 2021** at IISER Mohali - a conference to foster discussions in the areas of High Energy Physics, Cosmology, Astrophysics, Theory and Simulations.
-* **REYES Summer Workshop (Online), 2020** at Old Dominion University, Virginia, USA.
 * **Conference on Quantum Foundations, Technology and Applications, 2019** at IISER Mohali.
 * **NIUS Physics 16.1 and 16.2 Camp, 2019** at Homi Bhabha Centre for Science Education, TIFR, Mumbai - an exposure cum enrichment camp followed by subsequent camps for project work.
 * **National Science (Vijyoshi) Camp 2018** at IISER Bhopal.
