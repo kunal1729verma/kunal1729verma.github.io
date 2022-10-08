@@ -16,9 +16,9 @@ On this page, I aim to compile any resources I come across that I feel might be 
 
 ## Condensed Matter related
 -----
-* [Journal Club for Condensed Matter Physics](https://www.condmatjclub.org/) - a monthly selection of interesting papers by distinguished correspondents.
+* [Monte Carlo Methods in Classical Statistical Physics](https://www.physik.uni-leipzig.de/~janke/Paper/lnp739_079_2008.pdf) by Prof. Dr. Wolfhard Janke - a detailed introduction to all things related to classical Monte Carlo simulations.
 * [Computational Studies of Quantum Spin Systems](https://arxiv.org/abs/1101.3281) by Anders Sandvik - a comprehensive article starting with Monte Carlo on classical spin systems, their finite size scaling analysis, all the way to exact diagonalization and quantum Monte Carlo in quantum spin systems.
-* [Computational Many-Body Physics course](http://www.thp.uni-koeln.de/trebst/Lectures/2021-CompManyBody.shtml) by Prof. Simon Trebst - an excellent overview of modern numerical approaches to many-body systems.
+* [Computational Many-Body Physics course](http://www.thp.uni-koeln.de/trebst/Lectures/2021-CompManyBody.shtml) by Prof. Dr. Simon Trebst - an excellent overview of modern numerical approaches to many-body systems.
 * [An introduction to spontaneous symmetry breaking](https://scipost.org/10.21468/SciPostPhysLectNotes.11) by Aron, Louk and Jasper - set of notes on symmetries, spontaneous symmetry breaking and phase transitions.
 * [A pedagogical overview of the Toric Code](https://arxiv.org/abs/1712.01258) by Dr. M.F.A. Resende - an introductory discussion on the topological order in the Toric Code and the correspoding quasiparticle excitations. 
 * [Where do QFTs come from?](https://mcgreevy.physics.ucsd.edu/s14/239a-lectures.pdf) - a set of lecture notes by Prof. McGreevy with a focus on understanding how QFT arises from condensed matter systems.
@@ -26,6 +26,7 @@ On this page, I aim to compile any resources I come across that I feel might be 
 
 ## General links
 -----
+* [Journal Club for Condensed Matter Physics](https://www.condmatjclub.org/) - a monthly selection of interesting papers by distinguished correspondents.
 * [Andrew Lucas' Old Problem collection](https://www.alucasphys.com/problems.html) - an interesting set of problems by Andrew Lucas ranging from undergraduate mechanics to String Theory.
 * Another great [Useful Links](https://ciaranhickey.weebly.com/useful-links.html) page by Dr. Ciarán Hickey.
  
