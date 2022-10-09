@@ -14,7 +14,7 @@ On this page, I aim to compile any resources I come across that I feel might be 
 * A [compilation of my notes](https://github.com/kunal1729verma/lecture_notes_physics_iiserm) for various courses that I credited at IISER Mohali.
 * A few PHY101 Help Session tutoring scribbles -  [[27-02-2022]](https://kunal1729verma.github.io/files/hs_scribbles/27-02-2022_HS_notes.pdf), [[06-03-2022]](https://kunal1729verma.github.io/files/hs_scribbles/06-03-2022_HS_notes.pdf), [[03-04-2022]](https://kunal1729verma.github.io/files/hs_scribbles/03-04-2022_HS_notes.pdf) 
 
-## Condensed Matter related
+## Condensed Matter Physics
 -----
 * [Monte Carlo Methods in Classical Statistical Physics](https://www.physik.uni-leipzig.de/~janke/Paper/lnp739_079_2008.pdf) by Prof. Dr. Wolfhard Janke - a detailed introduction to all things related to classical Monte Carlo simulations.
 * [Computational Studies of Quantum Spin Systems](https://arxiv.org/abs/1101.3281) by Anders Sandvik - a comprehensive article starting with Monte Carlo on classical spin systems, their finite size scaling analysis, all the way to exact diagonalization and quantum Monte Carlo in quantum spin systems.
