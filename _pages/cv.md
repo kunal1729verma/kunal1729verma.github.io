@@ -21,7 +21,7 @@ redirect_from:
 ## Research Experience
 -----
 * **Masters thesis project with [Prof. Vijay B. Shenoy](http://www.physics.iisc.ac.in/~shenoy/), IISc Bengaluru** (January 2022 - Present) <br> _Project Assistant, IISc_
-  * Currently working on studies to explore the phases of $\mathbb{Z}_2$ lattice gauge theory using Quantum Monte Carlo methods.
+  * Currently working on studies to explore phases of lattice gauge theories using quantum Monte Carlo methods.
   * Preliminary work involved studying the classical Ising model in 2D and extracting critical exponents via finite-size scaling analysis.
   * Working with _C++_, _Python_. 
 
