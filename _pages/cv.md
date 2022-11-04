@@ -43,7 +43,7 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods_
   * Wrote a code for detection of peaks in a $\gamma$-ray spectrum generated.
   * Discontinued due to COVID-19 pandemic. 
 
-  [**Project Report**](https://kunal1729verma.github.io/files/nius_winter_2019.pdf)
+  [**Project Report**](https://kunal1729verma.github.io/files/nius_winter_2019.pdf): _Gamma ray-matter interaction and detectors for decay processes_
   
 ---
 
@@ -52,7 +52,7 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods_
   * Designed an algorithm for experimentally evaluating expectation values of operators.
   * Performed Quantum State Tomography of mixed states to extract the approximate density matrix using IBM-Q Experience.
   
-  [**Project Report**](https://kunal1729verma.github.io/files/summer_report_2019.pdf)
+  [**Project Report**](https://kunal1729verma.github.io/files/summer_report_2019.pdf): _Implementing quantum state tomography in IBM-Q using expectation values_
 
 
 ## Teaching Experience
