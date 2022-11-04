@@ -21,7 +21,7 @@ redirect_from:
 ## Research Experience
 -----
 * **Masters thesis project with [Prof. Vijay B. Shenoy](http://www.physics.iisc.ac.in/~shenoy/), IISc Bengaluru** (January 2022 - Present) <br> _Project Assistant, IISc_
-  * Currently working on studies to explore phases of lattice gauge theories using quantum Monte Carlo methods.
+  * Currently working on studies to explore phases of _lattice gauge theories_ using quantum Monte Carlo methods.
   * Preliminary work involved studying the classical Ising model in 2D and extracting critical exponents via finite-size scaling analysis.
   * Working with _C++_, _Python_. 
 
@@ -48,7 +48,7 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods_
 ---
 
 * **Research internship with Dr. Kavita Dorai, IISER Mohali** (April 2019 - July 2019)
-  * Introduction to basics of Quantum Computing and physically realizing it using NMR. 
+  * Introduction to basics of _Quantum Computing_ and physically realizing it using NMR. 
   * Designed an algorithm for experimentally evaluating expectation values of operators.
   * Performed Quantum State Tomography of mixed states to extract the approximate density matrix using IBM-Q Experience.
   
@@ -70,7 +70,7 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods_
 ## Technical Skills
 ---
 * **Computational Methods**
-  * Monte Carlo simulations, Path Integral (quantum) Monte Carlo , Molecular Dynamics simulations, Runge Kutta methods, numerical integration techniques.
+  * Monte Carlo simulations, Path Integral (quantum) Monte Carlo , Molecular Dynamics simulations, numerical integration techniques.
 * **Scientific Programming languages**
   *  Fluent in Python (scipy, numpy, matplotlib)
   *  Intermediate knowledge of C++
