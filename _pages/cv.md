@@ -103,7 +103,7 @@ The slides and the recordings for some of the talks can be viewed on the [Talks]
 * **Mandatory Theory courses** - Classical Mechanics, Quantum Mechanics, Electromagnetism, Mathematical Methods for Physics-I, Statistical Mechanics, Advanced Quantum Mechanics, Nuclear and Particle Physics, Solid State Physics, Atomic and Molecular Physics.
 * **Mandatory Lab courses** - Advanced optics and spectroscopy lab, Advanced Electronics lab, Nuclear Physics lab, Condensed Matter Physics lab.
 * **Elective courses** - Modelling Complex Systems, Relativistic Quantum Mechanics and Quantum Field Theory (QFT-I), Gravitation and Cosmology, Non-linear Dynamics and Chaos, Machine Learning, Biostatistics.
-* **Online NPTEL courses** - Computational Physics with Fortran (_Ongoing_), Introduction to Quantum Computing: Quantum Algorithms and Qiskit.
+* **Online NPTEL courses** - Computational Physics with Fortran, Introduction to Quantum Computing: Quantum Algorithms and Qiskit.
 
 ---
 You can find a `.pdf` version of the brief CV [here](https://kunal1729verma.github.io/files/resume_kunal.pdf).
