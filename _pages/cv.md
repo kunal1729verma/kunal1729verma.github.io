@@ -54,6 +54,10 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods_
   
   [**Project Report**](https://kunal1729verma.github.io/files/summer_report_2019.pdf): _Implementing quantum state tomography in IBM-Q using expectation values_
 
+## Publications
+---
+* Anosh Joseph, **Kunal Verma** (2022). _Sign Problem and Lefschetz Thimbles_. (Submitted) 
+
 
 ## Teaching Experience
 ---
