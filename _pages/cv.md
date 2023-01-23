@@ -89,7 +89,7 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods_
 2. **Sign Problem and Lefschetz Thimbles** - seminar presentation in IDC451: Seminar Delivery (Monsoon Semester 2021).
 3. **Lamb Shift and the origin of QED** - term paper presentation for PHY306: Advanced Quantum Mechanics (Spring Semester 2021).
 
-The slides and the recordings for some of the talks can be viewed on the [Talks](https://kunal1729verma.github.io//talks/) page.
+The slides and the recordings for some of the talks can be viewed on the [Talks](https://kunal1729verma.github.io//talks/) page. 
 
 
 ## Workshops/Conferences
