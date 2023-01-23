@@ -20,7 +20,7 @@ redirect_from:
 
 ## Research Experience
 -----
-* **Masters thesis project with [Dr. Sanjeev Kumar](https://web.iisermohali.ac.in/dept/physics/Sanjeev_Kumar.html) and [Prof. Vijay B. Shenoy](http://www.physics.iisc.ac.in/~shenoy/)* (January 2022 - Present) <br> _Master's Thesis, IISER Mohali_
+* **Masters thesis project with [Dr. Sanjeev Kumar](https://web.iisermohali.ac.in/dept/physics/Sanjeev_Kumar.html) and [Prof. Vijay B. Shenoy](http://www.physics.iisc.ac.in/~shenoy/)** (January 2022 - Present) <br> _Master's Thesis, IISER Mohali_
   * Currently working on studies to explore phases of _lattice gauge theories_ using quantum Monte Carlo methods.
   * Preliminary work involved studying the Classical Ising model and extracting critical exponents via finite-size scaling analysis.
   * Working with _C++_, _Python_. 
