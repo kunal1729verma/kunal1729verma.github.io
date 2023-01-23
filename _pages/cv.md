@@ -20,14 +20,14 @@ redirect_from:
 
 ## Research Experience
 -----
-* **Masters thesis project with [Prof. Vijay B. Shenoy](http://www.physics.iisc.ac.in/~shenoy/), IISc Bengaluru** (January 2022 - Present) <br> _Project Assistant, IISc_
+* **Masters thesis project with [Dr. Sanjeev Kumar](https://web.iisermohali.ac.in/dept/physics/Sanjeev_Kumar.html) and [Prof. Vijay B. Shenoy](http://www.physics.iisc.ac.in/~shenoy/)* (January 2022 - Present) <br> _Master's Thesis, IISER Mohali_
   * Currently working on studies to explore phases of _lattice gauge theories_ using quantum Monte Carlo methods.
   * Preliminary work involved studying the Classical Ising model and extracting critical exponents via finite-size scaling analysis.
   * Working with _C++_, _Python_. 
 
 ---
 
-* **Research internship with [Dr. Anosh Joseph](https://web.iisermohali.ac.in/Faculty/anoshjoseph/), IISER Mohali** (April 2021 - August 2021) <br> _Research Intern_ 
+* **Research internship with [Dr. Anosh Joseph](https://web.iisermohali.ac.in/Faculty/anoshjoseph/), IISER Mohali** (April 2021 - August 2021) <br> _Summer Project, IISER Mohali_ 
   * Complex Langevin and the Lefschetz Thimble methods as primary candidates to deal with the "sign problem" (which makes application of standard Monte Carlo methods problematic) in Lattice QCD.
     * _Complex Lagevin_: Based on stochastic quantization of the fields. The field configuration is evolved according to a SDE and its equilibrium configuration is chosen as the sampling configuration. 
     * _Lefschetz Thimbles_: new manifolds, equivalent to the original domain of integration, are found in the complexified space, along which the imaginary part of the action is constant and, therefore, the integral is (mostly) real.
@@ -38,7 +38,7 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods_
 
 ---
 
-* **Winter Project associated with NIUS 16.2 Physics Camp, with Prof. Rudrajyoti Palit, TIFR Mumbai** (December 2019)
+* **Winter Project associated with NIUS 16.2 Physics Camp, with Prof. Rudrajyoti Palit, TIFR Mumbai** (December 2019)  <br> _NIUS 16.2 Project, TIFR Mumbai_ 
   * Introduction to methods of radiation emission and detection, interaction of radiation with matter and detector working principles. Detection of gamma rays using scintillation detectors and PMTs.
   * Wrote a code for detection of peaks in a $\gamma$-ray spectrum generated.
   * Discontinued due to COVID-19 pandemic. 
@@ -47,7 +47,7 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods_
   
 ---
 
-* **Research internship with Dr. Kavita Dorai, IISER Mohali** (April 2019 - July 2019)
+* **Research internship with Dr. Kavita Dorai, IISER Mohali** (April 2019 - July 2019) <br> _Summer Project, IISER Mohali_ 
   * Introduction to basics of _Quantum Computing_ and physically realizing it using NMR. 
   * Designed an algorithm for experimentally evaluating expectation values of operators.
   * Performed Quantum State Tomography of mixed states to extract the approximate density matrix using IBM-Q Experience.
@@ -106,7 +106,7 @@ The slides and the recordings for some of the talks can be viewed on the [Talks]
 ---
 * **Mandatory Theory courses** - Classical Mechanics, Quantum Mechanics, Electromagnetism, Mathematical Methods for Physics-I, Statistical Mechanics, Advanced Quantum Mechanics, Nuclear and Particle Physics, Solid State Physics, Atomic and Molecular Physics.
 * **Mandatory Lab courses** - Advanced optics and spectroscopy lab, Advanced Electronics lab, Nuclear Physics lab, Condensed Matter Physics lab.
-* **Elective courses** - Modelling Complex Systems, Relativistic Quantum Mechanics and Quantum Field Theory (QFT-I), Gravitation and Cosmology, Non-linear Dynamics and Chaos, Machine Learning, Biostatistics.
+* **Elective courses** - Quantum Phases of Matter and Phase Transitions _(ongoing)_, Relativistic Quantum Mechanics and Quantum Field Theory (QFT-I), Gravitation and Cosmology, Non-linear Dynamics and Chaos, Modelling Complex Systems, Machine Learning, Biostatistics.
 * **Online NPTEL courses** - Computational Physics with Fortran [(Certificate)](https://kunal1729verma.github.io/files/e-certificate/comp_phys.jpg), Introduction to Quantum Computing: Quantum Algorithms and Qiskit [(Certificate)](https://kunal1729verma.github.io/files/e-certificate/intro_to_qc.jpg).
 
 ---
