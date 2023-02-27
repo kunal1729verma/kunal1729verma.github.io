@@ -28,5 +28,6 @@ On this page, I aim to compile any resources I come across that I feel might be 
 -----
 * [Journal Club for Condensed Matter Physics](https://www.condmatjclub.org/) - a monthly selection of interesting papers by distinguished correspondents.
 * [Andrew Lucas' Old Problem collection](https://www.alucasphys.com/problems.html) - an interesting set of problems by Andrew Lucas ranging from undergraduate mechanics to String Theory.
+* [Landau Theoretical Minimum and related problems: Quantum Mechanics](http://people.tamu.edu/~abanov/QE/TM-QM.pdf) - notebook of Quantum Mechanics problems collected by the generations of students over the years.
 * Another great [Useful Links](https://ciaranhickey.weebly.com/useful-links.html) page by Dr. Ciarán Hickey.
  
