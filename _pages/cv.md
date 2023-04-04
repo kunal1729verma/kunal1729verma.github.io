@@ -20,18 +20,19 @@ redirect_from:
 
 ## Research Experience
 -----
-* **Semi-classical Monte Carlo simulations of $J_1 − J_2$ model** with [Dr. Sanjeev Kumar](https://web.iisermohali.ac.in/dept/physics/Sanjeev_Kumar.html)) (January 2023 - Present) <br> _Master's Thesis, IISER Mohali_
+* **Semi-classical Monte Carlo simulations of $J_1 − J_2$ model** with [Dr. Sanjeev Kumar](https://web.iisermohali.ac.in/dept/physics/Sanjeev_Kumar.html) (January 2023 - Present) <br> _Master's Thesis, IISER Mohali_
   * The goal of the project is to study if the singlet-dimers of the J1 − J2 model are the source of quantum fluctuations.
   * Currently working on implementation of a Metropolis MCMC algorithm which includes formation
 and breaking of “semi-classical” singlet-dimers.
 
 ---
 
-* **Exploring topological order in $\mathbb{Z}_2$ lattice gauge theory** with [Dr. Sanjeev Kumar](https://web.iisermohali.ac.in/dept/physics/Sanjeev_Kumar.html)) and [Prof. Vijay B. Shenoy](http://www.physics.iisc.ac.in/~shenoy/) (January 2022 - Present) <br> _Master's Thesis, IISER Mohali_
+* **Exploring topological order in $\mathbb{Z}_2$ lattice gauge theory** with [Dr. Sanjeev Kumar](https://web.iisermohali.ac.in/dept/physics/Sanjeev_Kumar.html) and [Prof. Vijay B. Shenoy](http://www.physics.iisc.ac.in/~shenoy/) (January 2022 - Present) <br> _Master's Thesis, IISER Mohali_
   * Studying topological order in $\mathbb{Z}_2$ lattice gauge theory by mapping it to a dual model, which turns out to be the Transverse Field Ising Model (TFIM) with the singlet constraint.
   * Ising model with the singlet constraint can be simulated via a discrete-time Path Integral (quantum) Monte Carlo scheme while ensuring subsystem symmetries are preserved.
   * Monte Carlo averages of physical operators can be used to study the critical properties of the model using finite-size scaling.
 
+  [**Thesis Presentation**](https://kunal1729verma.github.io/files/kunal_mid_thesis_presentation.pdf) 
 ---
 
 * **Numerical methods to evade sign problem in lattice QCD** with [Dr. Anosh Joseph](https://web.iisermohali.ac.in/Faculty/anoshjoseph/), IISER Mohali (April 2021 - August 2021) <br> _Summer Project, IISER Mohali_ 
