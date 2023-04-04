@@ -15,4 +15,4 @@ The purpose of this website is to act as an organized repository of the things I
 
 Current Research
 ---
-For my MS thesis, I'm working with [Dr. Sanjeev Kumar](https://web.iisermohali.ac.in/dept/physics/Sanjeev_Kumar.html) and [Prof. Vijay B. Shenoy](http://www.physics.iisc.ac.in/~shenoy/). My current work broadly involves the study of topological order in lattice gauge theories via quantum Monte Carlo methods.
+For my MS thesis, I'm working with [Dr. Sanjeev Kumar](https://web.iisermohali.ac.in/dept/physics/Sanjeev_Kumar.html) and [Prof. Vijay B. Shenoy](http://www.physics.iisc.ac.in/~shenoy/). My current work broadly involves the study of quantum spin models and lattice gauge theories via Quantum Monte Carlo methods.
