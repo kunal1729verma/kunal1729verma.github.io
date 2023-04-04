@@ -20,14 +20,21 @@ redirect_from:
 
 ## Research Experience
 -----
-* **Masters thesis project with [Dr. Sanjeev Kumar](https://web.iisermohali.ac.in/dept/physics/Sanjeev_Kumar.html) and [Prof. Vijay B. Shenoy](http://www.physics.iisc.ac.in/~shenoy/)** (January 2022 - Present) <br> _Master's Thesis, IISER Mohali_
-  * Currently working on studies to explore phases of _lattice gauge theories_ using quantum Monte Carlo methods.
-  * Preliminary work involved studying the Classical Ising model and extracting critical exponents via finite-size scaling analysis.
-  * Working with _C++_, _Python_. 
+* **Semi-classical Monte Carlo simulations of $J_1 − J_2$ model** with [Dr. Sanjeev Kumar](https://web.iisermohali.ac.in/dept/physics/Sanjeev_Kumar.html)) (January 2023 - Present) <br> _Master's Thesis, IISER Mohali_
+  * The goal of the project is to study if the singlet-dimers of the J1 − J2 model are the source of quantum fluctuations.
+  * Currently working on implementation of a Metropolis MCMC algorithm which includes formation
+and breaking of “semi-classical” singlet-dimers.
 
 ---
 
-* **Research internship with [Dr. Anosh Joseph](https://web.iisermohali.ac.in/Faculty/anoshjoseph/), IISER Mohali** (April 2021 - August 2021) <br> _Summer Project, IISER Mohali_ 
+* **Exploring topological order in $\mathbb{Z}_2$ lattice gauge theory** with [Dr. Sanjeev Kumar](https://web.iisermohali.ac.in/dept/physics/Sanjeev_Kumar.html)) and [Prof. Vijay B. Shenoy](http://www.physics.iisc.ac.in/~shenoy/) (January 2022 - Present) <br> _Master's Thesis, IISER Mohali_
+  * Studying topological order in $\mathbb{Z}_2$ lattice gauge theory by mapping it to a dual model, which turns out to be the Transverse Field Ising Model (TFIM) with the singlet constraint.
+  * Ising model with the singlet constraint can be simulated via a discrete-time Path Integral (quantum) Monte Carlo scheme while ensuring subsystem symmetries are preserved.
+  * Monte Carlo averages of physical operators can be used to study the critical properties of the model using finite-size scaling.
+
+---
+
+* **Numerical methods to evade sign problem in lattice QCD** with [Dr. Anosh Joseph](https://web.iisermohali.ac.in/Faculty/anoshjoseph/), IISER Mohali (April 2021 - August 2021) <br> _Summer Project, IISER Mohali_ 
   * Complex Langevin and the Lefschetz Thimble methods as primary candidates to deal with the "sign problem" (which makes application of standard Monte Carlo methods problematic) in Lattice QCD.
     * _Complex Lagevin_: Based on stochastic quantization of the fields. The field configuration is evolved according to a SDE and its equilibrium configuration is chosen as the sampling configuration. 
     * _Lefschetz Thimbles_: new manifolds, equivalent to the original domain of integration, are found in the complexified space, along which the imaginary part of the action is constant and, therefore, the integral is (mostly) real.
@@ -38,7 +45,7 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods_
 
 ---
 
-* **Winter Project associated with NIUS 16.2 Physics Camp, with Prof. Rudrajyoti Palit, TIFR Mumbai** (December 2019)  <br> _NIUS 16.2 Project, TIFR Mumbai_ 
+* **Gamma-ray spectroscopy to study decay processes** with Prof. Rudrajyoti Palit, TIFR Mumbai (December 2019)  <br> _NIUS 16.2 Project, TIFR Mumbai_ 
   * Introduction to methods of radiation emission and detection, interaction of radiation with matter and detector working principles. Detection of gamma rays using scintillation detectors and PMTs.
   * Wrote a code for detection of peaks in a $\gamma$-ray spectrum generated.
   * Discontinued due to COVID-19 pandemic. 
@@ -47,7 +54,7 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods_
   
 ---
 
-* **Research internship with Dr. Kavita Dorai, IISER Mohali** (April 2019 - July 2019) <br> _Summer Project, IISER Mohali_ 
+* **Implementing NMR Quantum State Tomography** with Dr. Kavita Dorai, IISER Mohali (April 2019 - July 2019) <br> _Summer Project, IISER Mohali_ 
   * Introduction to basics of _Quantum Computing_ and physically realizing it using NMR. 
   * Designed an algorithm for experimentally evaluating expectation values of operators.
   * Performed Quantum State Tomography of mixed states to extract the approximate density matrix using IBM-Q Experience.
@@ -62,6 +69,7 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods_
 ## Teaching Experience
 ---
 * **PHY101 - Mechanics**, Help Session Tutor, Spring Semester 2022 - IISER Mohali
+* **CHM102 - Quantum Chemistry**, Help Session Tutor, Spring Semester 2022 - IISER Mohali
 
 
 ## Awards/Scholarships
@@ -94,7 +102,7 @@ The slides and the recordings for some of the talks can be viewed on the [Talks]
 
 ## Workshops/Conferences
 ---
-* **From Quantum Matter to Quantum Computers (Hybrid), 2022** at MPI-PKS Dresden, a school for Master students in quantum many-body physics, quantum matter and quantum computers.
+* **From Quantum Matter to Quantum Computers (Online), 2022** at MPI-PKS Dresden (Online), a school for Master students in quantum many-body physics, quantum matter and quantum computers.
 * **Frustrated Metals and Insulators (Hybrid), 2022** program at ICTS, Bengaluru. Talks in the fields of frustrated magnetism, superconductivity and topological states of matter.
 * **Shivalik HEPCATS meeting, Winter 2021** at IISER Mohali - a conference to foster discussions in the areas of High Energy Physics, Cosmology, Astrophysics, Theory and Simulations.
 * **Conference on Quantum Foundations, Technology and Applications, 2019** at IISER Mohali.
@@ -110,4 +118,5 @@ The slides and the recordings for some of the talks can be viewed on the [Talks]
 * **Online NPTEL courses** - Computational Physics with Fortran [(Certificate)](https://kunal1729verma.github.io/files/e-certificate/comp_phys.jpg), Introduction to Quantum Computing: Quantum Algorithms and Qiskit [(Certificate)](https://kunal1729verma.github.io/files/e-certificate/intro_to_qc.jpg).
 
 ---
+
 You can find a `.pdf` version of the brief CV [here](https://kunal1729verma.github.io/files/resume_kunal.pdf).
