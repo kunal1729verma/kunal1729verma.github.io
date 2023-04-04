@@ -71,7 +71,7 @@ A Primer on Complex Langevin and Lefschetz Thimble Methods_
 ## Teaching Experience
 ---
 * **PHY101 - Mechanics**, Help Session Tutor, Spring Semester 2022 - IISER Mohali
-* **CHM102 - Quantum Chemistry**, Help Session Tutor, Spring Semester 2022 - IISER Mohali
+* **CHM102 - Quantum Chemistry**, Help Session Tutor, Spring Semester 2023 - IISER Mohali
 
 
 ## Awards/Scholarships
