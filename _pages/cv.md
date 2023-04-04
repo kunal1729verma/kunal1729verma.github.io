@@ -27,12 +27,13 @@ and breaking of “semi-classical” singlet-dimers.
 
 ---
 
-* **Exploring topological order in $\mathbb{Z}_2$ lattice gauge theory** with [Dr. Sanjeev Kumar](https://web.iisermohali.ac.in/dept/physics/Sanjeev_Kumar.html) and [Prof. Vijay B. Shenoy](http://www.physics.iisc.ac.in/~shenoy/) (January 2022 - Present) <br> _Master's Thesis, IISER Mohali_
+* **Exploring topological order in $Z_2$ lattice gauge theory** with [Dr. Sanjeev Kumar](https://web.iisermohali.ac.in/dept/physics/Sanjeev_Kumar.html) and [Prof. Vijay B. Shenoy](http://www.physics.iisc.ac.in/~shenoy/) (January 2022 - Present) <br> _Master's Thesis, IISER Mohali_
   * Studying topological order in $\mathbb{Z}_2$ lattice gauge theory by mapping it to a dual model, which turns out to be the Transverse Field Ising Model (TFIM) with the singlet constraint.
   * Ising model with the singlet constraint can be simulated via a discrete-time Path Integral (quantum) Monte Carlo scheme while ensuring subsystem symmetries are preserved.
   * Monte Carlo averages of physical operators can be used to study the critical properties of the model using finite-size scaling.
 
-  [**Thesis Presentation**](https://kunal1729verma.github.io/files/kunal_mid_thesis_presentation.pdf) 
+  [**Thesis Presentation**](https://kunal1729verma.github.io/files/kunal_mid_thesis_presentation.pdf): _Mid thesis presentation_
+  
 ---
 
 * **Numerical methods to evade sign problem in lattice QCD** with [Dr. Anosh Joseph](https://web.iisermohali.ac.in/Faculty/anoshjoseph/), IISER Mohali (April 2021 - August 2021) <br> _Summer Project, IISER Mohali_ 
