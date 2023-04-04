@@ -32,7 +32,7 @@ and breaking of “semi-classical” singlet-dimers.
   * Ising model with the singlet constraint can be simulated via a discrete-time Path Integral (quantum) Monte Carlo scheme while ensuring subsystem symmetries are preserved.
   * Monte Carlo averages of physical operators can be used to study the critical properties of the model using finite-size scaling.
 
-  [**Thesis Presentation**](https://kunal1729verma.github.io/files/kunal_mid_thesis_presentation.pdf): _Mid thesis presentation_
+  [**Thesis Presentation**](https://kunal1729verma.github.io/files/kunal_mid_thesis_presentation.pdf): _Gauge theories, Duals, and Monte Carlo_
   
 ---
 
