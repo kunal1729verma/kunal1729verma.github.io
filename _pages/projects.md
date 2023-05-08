@@ -12,7 +12,7 @@ This page includes some of the projects/term paper explorations that I've worked
 ## Mean-field analysis of the Bose-Hubbard model (PHY665 - Quantum Phases of Matter and Phase Transitions) 
 -----
 This term paper project explores the quantum phases exhibited by the Bose-Hubbard model in the ground state regime. 
-$$\hat{H} = -t \sum_{\expval{i, \: j}} \large(\hat{a}^\dagger_i \hat{a}_j + \text{h.c.} \large) + \frac{U}{2} \sum_i \hat{n}_i (\hat{n}_i - 1) - \mu \sum_i \hat{n}_i $$
+$$\hat{H} = -t \sum_{\langle i, \: j \rangle} \large(\hat{a}^\dagger_i \hat{a}_j + \text{h.c.} \large) + \frac{U}{2} \sum_i \hat{n}_i (\hat{n}_i - 1) - \mu \sum_i \hat{n}_i $$
 The mean-field theory of the Bose-Hubbard model decouples the self-interaction term in the Hamiltonian, and the mean-field decoupled Hamiltonian is a sum over single-particle Hamiltonians $\hat{H} = \sum_i \hat{h}_i$. The expectation value of the annihilation operator (also the mean-field parameter) acts like the new order parameter $\langle \hat{a} \rangle = \phi$, and the numerical fixed-point iteration method distinguishes the Mott insulator and the Superfluid phases. Further, we also perform a perturbative analysis of the mean-field theory, and we find that the phase boundaries predicted numerically by the fixed-point iteration method and perturbation theory match exactly. The slides for the term paper presentation can be found [here](https://github.com/kunal1729verma/idc621-modelling_complex_systems/tree/master/SIRS).
 
 
