@@ -27,6 +27,7 @@ redirect_from:
   * The goal of the project is to study if the singlet-dimers of the $J_1 − J_2$ model are the source of quantum fluctuations.
   * Currently working on implementation of a Metropolis MCMC algorithm which includes formation
 and breaking of “semi-classical” singlet-dimers.
+
   [**Thesis Presentation**](https://kunal1729verma.github.io/files/Kunal_MS18148_PRJ502.pdf): _Gauge theories, Duals, and Monte Carlo_
 
 ---
