@@ -28,7 +28,7 @@ redirect_from:
   * Currently working on implementation of a Metropolis MCMC algorithm which includes formation
 and breaking of “semi-classical” singlet-dimers.
 
-  [**Thesis Presentation**](https://kunal1729verma.github.io/files/Kunal_MS18148_PRJ502.pdf): _Gauge theories, Duals, and Monte Carlo_
+  [**Thesis Presentation**](https://kunal1729verma.github.io/files/Kunal_MS18148_PRJ502.pdf): _Quantum phases from semi-classical Monte Carlo_
 
 ---
 
