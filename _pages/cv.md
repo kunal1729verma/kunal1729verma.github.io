@@ -20,7 +20,7 @@ redirect_from:
 
 ## Research Experience
 -----
-[**Master's thesis**](https://kunal1729verma.github.io/files/Kunal_Verma_Master_Thesis_GitHub.pdf): _Monte Carlo Studies of Quantum Phase Transitions_
+[**Master's thesis**](https://kunal1729verma.github.io/files/Kunal_Verma_Master_Thesis_GitHub.pdf): _Monte Carlo Studies of Quantum Phase Transitions_, IISER Mohali, May 2023
 
 -----
 * **Semi-classical Monte Carlo simulations of $J_1 − J_2$ model** with [Dr. Sanjeev Kumar](https://web.iisermohali.ac.in/dept/physics/Sanjeev_Kumar.html) (January 2023 - Present) <br> _Master's Thesis, IISER Mohali_
