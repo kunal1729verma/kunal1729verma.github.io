@@ -20,11 +20,14 @@ redirect_from:
 
 ## Research Experience
 -----
-[**Master's thesis**](https://kunal1729verma.github.io/files/Kunal_Verma_Master_Thesis_GitHub.pdf)
+[**Master's thesis**](https://kunal1729verma.github.io/files/Kunal_Verma_Master_Thesis_GitHub.pdf): _Monte Carlo Studies of Quantum Phase Transitions_
+
+-----
 * **Semi-classical Monte Carlo simulations of $J_1 − J_2$ model** with [Dr. Sanjeev Kumar](https://web.iisermohali.ac.in/dept/physics/Sanjeev_Kumar.html) (January 2023 - Present) <br> _Master's Thesis, IISER Mohali_
   * The goal of the project is to study if the singlet-dimers of the $J_1 − J_2$ model are the source of quantum fluctuations.
   * Currently working on implementation of a Metropolis MCMC algorithm which includes formation
 and breaking of “semi-classical” singlet-dimers.
+  [**Thesis Presentation**](https://kunal1729verma.github.io/files/Kunal_MS18148_PRJ502.pdf): _Gauge theories, Duals, and Monte Carlo_
 
 ---
 
