@@ -14,14 +14,14 @@ redirect_from:
 -----
 * **Indian Institute of Science Education and Research, Mohali** <br> BS-MS Dual Degree, Physics Major (2018 - 2023)
   * Cumulative GPA: **9.52/10** (till Semester 8)  
+  * [**Master's Dissertation**](https://kunal1729verma.github.io/files/Kunal_Verma_Master_Thesis_GitHub.pdf): _Monte Carlo Studies of Quantum Phase Transitions_, IISER Mohali, May 2023
+
+-----
 * **Apeejay School, Sheikh Sarai, New Delhi** <br> CBSE Board, Secondary and Senior Secondary School (2015 - 2018)
   * AISSCE, Class 12: 95.4% score
   * AISCE,  Class 10: 10.0/10 CGPA
 
 ## Research Experience
------
-[**Master's Thesis**](https://kunal1729verma.github.io/files/Kunal_Verma_Master_Thesis_GitHub.pdf): _Monte Carlo Studies of Quantum Phase Transitions_, IISER Mohali, May 2023
-
 -----
 * **Semi-classical Monte Carlo simulations of $J_1 − J_2$ model** with [Dr. Sanjeev Kumar](https://web.iisermohali.ac.in/dept/physics/Sanjeev_Kumar.html) (January 2023 - Present) <br> _Master's Thesis, IISER Mohali_
   * The goal of the project is to study if the singlet-dimers of the $J_1 − J_2$ model are the source of quantum fluctuations.
