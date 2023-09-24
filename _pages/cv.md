@@ -13,7 +13,7 @@ redirect_from:
 ## Education
 -----
 * **Indian Institute of Science Education and Research, Mohali** <br> BS-MS Dual Degree, Physics Major (2018 - 2023)
-  * Cumulative GPA: **9.52/10** (till Semester 8)  
+  * Cumulative GPA: 9.4/10
   * [**Master's Dissertation**](https://kunal1729verma.github.io/files/Kunal_Verma_Master_Thesis_GitHub.pdf): _Monte Carlo Studies of Quantum Phase Transitions_, IISER Mohali, May 2023
 
 -----
