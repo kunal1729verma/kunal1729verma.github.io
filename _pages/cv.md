@@ -24,7 +24,7 @@ redirect_from:
 ## Research Experience
 -----
 * **Semi-classical Monte Carlo simulations of $J_1 − J_2$ model** with [Dr. Sanjeev Kumar](https://web.iisermohali.ac.in/dept/physics/Sanjeev_Kumar.html) (January 2023 - Present) <br> _Master's Thesis, IISER Mohali_
-  * The goal of the project is to study if the singlet-dimers of the $J_1 − J_2$ model are the source of quantum fluctuations.
+  * The project aims to study if the singlet-dimers of the $J_1 − J_2$ model are the source of quantum fluctuations.
   * Currently working on an implementation of a Metropolis MCMC algorithm, which includes the formation
 and breaking of “semi-classical” singlet-dimers.
 
